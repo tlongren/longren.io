@@ -6,9 +6,9 @@ aliases = ["about-us","about-hugo","contact"]
   name = "Tyler Longren"
 +++
 
-Hi! My name is Tyler and this is my personal site. I typically write about WordPress, Linux, Xbox 360&#8217;s, and various web things like CSS, PHP, and javascript. I am an extremely proud father, to two wonderous daughters. When I am not spending time with them, I can usually be found at a computer [building something][1] or in the timber cutting up the last of the elm trees.
+Hi! My name is Tyler and this is my personal site. I typically write about WordPress, Linux, Xbox 360&#8217;s, and various web things like CSS, PHP, and javascript. I am an extremely proud father, to two wonderous daughters. When I am not spending time with them, I can usually be found at a computer [building something][1] or in the timber cutting up the last of the ash trees.
 
-I&#8217;ve also written a book, it&#8217;s titled [WordPress Multisite Security][2]. It was published on August 26, 2013, about a week after I turned 30 years old. Check it out if you like that kind of thing. I plan to write other books as well.
+I&#8217;ve also written a book, it&#8217;s titled [WordPress Multisite Security][2]. Check it out if you like that kind of thing.
 
 You&#8217;ve likely come here in search of my one of my [WordPress projects][4]. [RootDip][5] and [Unwakeable][6] are two WordPress themes I&#8217;ve created, and [Thumbnail Viewer][7] is my WordPress plugin.
 
