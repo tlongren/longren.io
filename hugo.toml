@@ -10,9 +10,6 @@ paginate  = 10
 rssLimit  = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 
-# googleAnalytics = ""
-# disqusShortname = ""
-
 archetypeDir = "archetypes"
 contentDir   = "content"
 dataDir      = "data"
@@ -115,8 +112,8 @@ disableHugoGeneratorInject = false
   #
   [params.footer]
     trademark = true
-    rss = true
-    copyright = true
+    rss = false
+    copyright = false
     author = true
 
     topText = []
@@ -153,8 +150,8 @@ disableHugoGeneratorInject = false
   # A better internet.
   # Uncomment this to enable Commento.
   #
-  [params.commento]
-     url = "https://longren.io"
+  # [params.commento]
+  #    url = "https://longren.io"
 
   # Uncomment this if you want a portrait on your start page
   #
