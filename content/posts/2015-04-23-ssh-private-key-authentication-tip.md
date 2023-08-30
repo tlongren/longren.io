@@ -33,7 +33,9 @@ I&#8217;ll SSH into my new Droplet, only to be rejected. I immediately know why,
 
 For SSH private key authentication to work, the `~/.ssh/authorized_keys` file and the `~/.ssh` folder need specific permissions: 
 
-<pre class="wp-block-preformatted">chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys</pre>
+```shell
+chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
+```
 
 Run that, and then try logging in via SSH to your Droplet from your local machine. Should go this time.
 
@@ -41,7 +43,9 @@ If you still can&#8217;t login to your remote system, something else is likely w
 
 After you&#8217;ve followed those steps, change permissions on the `~/.ssh/authorized_keys` file again and on the `~/.ssh` folder again. Like so from your terminal: 
 
-<pre class="wp-block-preformatted">chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys</pre>
+``` shell
+chmod 700 ~/.ssh && chmod 600 ~/.ssh/authorized_keys
+```
 
 ## I&#8217;m curious&#8230;
 
