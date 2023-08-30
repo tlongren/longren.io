@@ -1,7 +1,7 @@
 ---
 title: 'How-To: Show All Network Connections On Your DD-WRT Router'
 author: Tyler Longren
-type: post
+type: blog
 date: 2018-10-13T04:00:36+00:00
 url: /how-to-show-all-network-connections-on-your-dd-wrt-router/
 featured_image: /wp-content/uploads/2015/09/screencapture-192-168-1-1-apply-cgi-14420106888013.png
