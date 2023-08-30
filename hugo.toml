@@ -159,9 +159,9 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
   [params.portrait]
-    path     = "/img/image.jpg"
+    path     = "https://2.gravatar.com/avatar/6cc6e8508375f754cd953bcb6917894e?size=200"
     alt      = "Portrait"
-    maxWidth = "50px"
+    maxWidth = "200px"
 
   # Social icons
   [[params.social]]
