@@ -116,7 +116,7 @@ disableHugoGeneratorInject = false
     copyright = false
     author = true
 
-    topText = ["fuck its"]
+    topText = ["Rip it all off if you want, idfc"]
     bottomText = [
       "Powered by <a href=\"http://gohugo.io\">Hugo</a>",
       "Made with &#10084; by <a href=\"https://github.com/tlongren\">Tyler Longren</a>"
