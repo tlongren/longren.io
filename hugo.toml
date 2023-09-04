@@ -150,8 +150,8 @@ disableHugoGeneratorInject = false
   # A better internet.
   # Uncomment this to enable Commento.
   #
-  # [params.commento]
-  #    url = "https://longren.io"
+  [params.commento]
+    url = "https://longren.io"
 
   # Uncomment this if you want a portrait on your start page
   #
