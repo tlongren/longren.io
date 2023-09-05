@@ -2,6 +2,8 @@ baseURL = "https://longren.io"
 title   = "Tyler Longren"
 languageCode = "en-us"
 theme = "hello-friend-ng"
+disqusShortname = 'tlongren'
+
 
 PygmentsCodeFences = true
 PygmentsStyle = "monokai"
