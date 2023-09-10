@@ -1,7 +1,7 @@
----
+a---
 title: Contact
 author: Tyler Longren
-type: contact
+type: page
 date: 2005-04-29T16:01:16+00:00
 views:
   - 16106
