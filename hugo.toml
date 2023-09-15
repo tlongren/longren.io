@@ -133,7 +133,7 @@ disableHugoGeneratorInject = false
 
   [params.logo]
     logoMark     = ">"
-    logoText     = "$ tyler@github.pages"
+    logoText     = "$ tyler@github.pages/"
     logoHomeLink = "Home"
     # Set true to remove the logo cursor entirely.
     # logoCursorDisabled = false
