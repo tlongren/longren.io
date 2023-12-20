@@ -127,9 +127,9 @@ disableHugoGeneratorInject = false
   # Colors for favicons
   #
   [params.favicon.color]
-    mask = "#1b1c1d"
-    msapplication = "#1b1c1d"
-    theme = "#1b1c1d"
+    mask = "#F58012"
+    msapplication = "#F58012"
+    theme = "#F58012"
 
   [params.logo]
     logoMark     = ">"
